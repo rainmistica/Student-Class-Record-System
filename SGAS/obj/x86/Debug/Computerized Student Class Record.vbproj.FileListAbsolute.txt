@@ -1,0 +1,415 @@
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\bin\Debug\CSCR.exe.manifest
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\bin\Debug\CSCR.application
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\bin\Debug\CSCR.exe
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\bin\Debug\CSCR.pdb
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\bin\Debug\CSCR.xml
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\bin\Debug\MySql.Data.dll
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\bin\Debug\MySql.Data.Entity.dll
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\SGAS.frmAttendance.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\SGAS.frmClass.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\SGAS.frmgradesheet.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\SGAS.frmMaintenance.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\SGAS.frmLog.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\SGAS.frmMain.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\SGAS.frmStud.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\SGAS.frmStudRep.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\SGAS.frmUser.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\SGAS.frmVOG.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\SGAS.Resources.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\SGAS.ReportsForStudent.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\RdlCompile.cache
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\RdlCompile.compiled
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\CSCR.exe.manifest
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\CSCR.application
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\CSCR.exe
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\CSCR.xml
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\CSCR.pdb
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\SGAS.frmGradSheet.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\SGAS.ReportGradSheet.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\SGAS.frmFinalG.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT16 309PM)\SGAS\obj\x86\Debug\SGAS.ReportFinal.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\CSCR.exe
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\CSCR.xml
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\CSCR.pdb
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\bin\Debug\CSCR.exe.manifest
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\bin\Debug\CSCR.application
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\bin\Debug\CSCR.exe
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\bin\Debug\CSCR.pdb
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\bin\Debug\CSCR.xml
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\bin\Debug\MySql.Data.dll
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\bin\Debug\MySql.Data.Entity.dll
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\SGAS.frmAttendance.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\SGAS.frmClass.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\SGAS.frmFinalG.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\SGAS.frmgradesheet.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\SGAS.frmGradSheet.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\SGAS.frmMaintenance.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\SGAS.frmLog.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\SGAS.frmMain.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\SGAS.frmStud.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\SGAS.frmStudRep.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\SGAS.frmUser.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\SGAS.frmVOG.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\SGAS.Resources.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\SGAS.ReportFinal.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\SGAS.ReportGradSheet.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\SGAS.ReportsForStudent.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\RdlCompile.cache
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\RdlCompile.compiled
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\CSCR.exe.manifest
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 152AM)\SGAS\obj\x86\Debug\CSCR.application
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\CSCR.exe
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\CSCR.xml
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\CSCR.pdb
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\bin\Debug\CSCR.exe.manifest
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\bin\Debug\CSCR.application
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\bin\Debug\CSCR.exe
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\bin\Debug\CSCR.pdb
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\bin\Debug\CSCR.xml
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\SGAS.frmAttendance.resources
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\SGAS.frmClass.resources
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\SGAS.frmFinalG.resources
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\SGAS.frmgradesheet.resources
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\SGAS.frmGradSheet.resources
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\SGAS.frmMaintenance.resources
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\SGAS.frmLog.resources
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\SGAS.frmMain.resources
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\SGAS.frmStud.resources
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\SGAS.frmStudRep.resources
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\SGAS.frmUser.resources
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\SGAS.frmVOG.resources
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\SGAS.Resources.resources
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\SGAS.ReportFinal.resources
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\SGAS.ReportGradSheet.resources
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\SGAS.ReportsForStudent.resources
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\RdlCompile.cache
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\RdlCompile.compiled
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\CSCR.exe.manifest
+D:\Rain Group Thesis(Dont Delete and Alter Please!)\FINAL THESIS (OCT17 514AM)\SGAS\obj\x86\Debug\CSCR.application
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\CSCR.exe
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\CSCR.xml
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\CSCR.pdb
+D:\FINAL THESIS (OCT17 910AM)\SGAS\bin\Debug\CSCR.exe.manifest
+D:\FINAL THESIS (OCT17 910AM)\SGAS\bin\Debug\CSCR.application
+D:\FINAL THESIS (OCT17 910AM)\SGAS\bin\Debug\CSCR.exe
+D:\FINAL THESIS (OCT17 910AM)\SGAS\bin\Debug\CSCR.pdb
+D:\FINAL THESIS (OCT17 910AM)\SGAS\bin\Debug\CSCR.xml
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.frmAttendance.resources
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.frmClass.resources
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.frmFinalG.resources
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.frmgradesheet.resources
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.frmGradSheet.resources
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.frmMaintenance.resources
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.frmLog.resources
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.frmMain.resources
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.frmStud.resources
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.frmStudRep.resources
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.frmUser.resources
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.frmVOG.resources
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.Resources.resources
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.ReportFinal.resources
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.ReportGradSheet.resources
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.ReportsForStudent.resources
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\RdlCompile.cache
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\RdlCompile.compiled
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\CSCR.exe.manifest
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\CSCR.application
+D:\FINAL THESIS (OCT17 910AM)\SGAS\obj\x86\Debug\SGAS.splash.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\CSCR.exe
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\CSCR.xml
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\CSCR.pdb
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\bin\Debug\CSCR.exe.manifest
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\bin\Debug\CSCR.application
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\bin\Debug\CSCR.exe
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\bin\Debug\CSCR.pdb
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\bin\Debug\CSCR.xml
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.frmAttendance.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.frmClass.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.frmFinalG.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.frmgradesheet.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.frmGradSheet.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.frmMaintenance.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.frmLog.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.frmMain.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.frmStud.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.frmStudRep.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.frmUser.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.frmVOG.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.Resources.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.ReportFinal.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.ReportGradSheet.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.ReportsForStudent.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\SGAS.splash.resources
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\RdlCompile.cache
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\RdlCompile.compiled
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\CSCR.exe.manifest
+D:\FINAL THESIS (OCT17 1202PM)\SGAS\obj\x86\Debug\CSCR.application
+F:\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\CSCR.exe
+F:\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\CSCR.xml
+F:\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\CSCR.pdb
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\bin\Debug\CSCR.exe.manifest
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\bin\Debug\CSCR.application
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\bin\Debug\CSCR.exe
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\bin\Debug\CSCR.pdb
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\bin\Debug\CSCR.xml
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\bin\Debug\MySql.Data.dll
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\bin\Debug\MySql.Data.Entity.dll
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.frmAttendance.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.frmClass.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.frmFinalG.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.frmgradesheet.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.frmGradSheet.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.frmMaintenance.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.frmLog.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.frmMain.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.frmStud.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.frmStudRep.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.frmUser.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.frmVOG.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.Resources.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.ReportFinal.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.ReportGradSheet.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.ReportsForStudent.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.splash.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\RdlCompile.cache
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\RdlCompile.compiled
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\CSCR.exe.manifest
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\CSCR.application
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\CSCR.exe
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\CSCR.xml
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\CSCR.pdb
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT17 324PM)\SGAS\obj\x86\Debug\SGAS.DatatoExcel.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\SGAS.DatatoExcel.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\SGAS.frmAttendance.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\SGAS.frmClass.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\SGAS.frmgradesheet.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\SGAS.frmMaintenance.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\SGAS.frmLog.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\SGAS.frmMain.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\SGAS.frmStud.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\SGAS.frmUser.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\SGAS.frmVOG.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\SGAS.Resources.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\SGAS.ReportFinal.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\SGAS.ReportGradSheet.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\SGAS.ReportsForStudent.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\SGAS.splash.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\RdlCompile.cache
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\RdlCompile.compiled
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\bin\Debug\CSCR.exe.manifest
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\bin\Debug\CSCR.application
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\bin\Debug\CSCR.exe
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\bin\Debug\CSCR.pdb
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\bin\Debug\CSCR.xml
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\bin\Debug\MySql.Data.dll
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\bin\Debug\MySql.Data.Entity.dll
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\CSCR.exe.manifest
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\CSCR.application
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\CSCR.exe
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\CSCR.xml
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 342AM)\SGAS\obj\x86\Debug\CSCR.pdb
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\bin\Debug\CSCR.exe.manifest
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\bin\Debug\CSCR.application
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\bin\Debug\CSCR.exe
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\bin\Debug\CSCR.pdb
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\bin\Debug\CSCR.xml
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\bin\Debug\MySql.Data.dll
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\bin\Debug\MySql.Data.Entity.dll
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\SGAS.DatatoExcel.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\SGAS.frmAttendance.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\SGAS.frmClass.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\SGAS.frmgradesheet.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\SGAS.frmMaintenance.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\SGAS.frmLog.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\SGAS.frmMain.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\SGAS.frmStud.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\SGAS.frmUser.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\SGAS.frmVOG.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\SGAS.Resources.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\SGAS.ReportFinal.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\SGAS.ReportGradSheet.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\SGAS.ReportsForStudent.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\SGAS.splash.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\RdlCompile.cache
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\RdlCompile.compiled
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\CSCR.exe.manifest
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\CSCR.application
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\CSCR.exe
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\CSCR.xml
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 316PM)\SGAS\obj\x86\Debug\CSCR.pdb
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\SGAS.DatatoExcel.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\SGAS.frmAttendance.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\SGAS.frmClass.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\SGAS.frmgradesheet.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\SGAS.frmMaintenance.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\SGAS.frmLog.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\SGAS.frmMain.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\SGAS.frmStud.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\SGAS.frmUser.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\SGAS.frmVOG.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\SGAS.Resources.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\SGAS.ReportFinal.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\SGAS.ReportGradSheet.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\SGAS.ReportsForStudent.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\SGAS.splash.resources
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\RdlCompile.cache
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\RdlCompile.compiled
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\bin\Debug\CSCR.exe.manifest
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\bin\Debug\CSCR.application
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\bin\Debug\CSCR.exe
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\bin\Debug\CSCR.pdb
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\bin\Debug\CSCR.xml
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\bin\Debug\MySql.Data.dll
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\bin\Debug\MySql.Data.Entity.dll
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\CSCR.exe.manifest
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\CSCR.application
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\CSCR.exe
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\CSCR.xml
+D:\Krisnel's Thesis Group\FINAL THESIS (OCT20 710PM)\SGAS\obj\x86\Debug\CSCR.pdb
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\bin\Debug\CSCR.exe.manifest
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\bin\Debug\CSCR.application
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\bin\Debug\CSCR.exe
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\bin\Debug\CSCR.pdb
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\bin\Debug\CSCR.xml
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\SGAS.DatatoExcel.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\SGAS.frmAttendance.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\SGAS.frmClass.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\SGAS.frmgradesheet.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\SGAS.frmMaintenance.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\SGAS.frmLog.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\SGAS.frmMain.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\SGAS.frmStud.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\SGAS.frmUser.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\SGAS.frmVOG.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\SGAS.Resources.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\SGAS.ReportFinal.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\SGAS.ReportGradSheet.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\SGAS.ReportsForStudent.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\SGAS.splash.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\RdlCompile.cache
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\RdlCompile.compiled
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\CSCR.exe.manifest
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\CSCR.application
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\CSCR.exe
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\CSCR.xml
+C:\Users\PC7\Desktop\FINAL THESIS (OCT20 1145PM)\SGAS\obj\x86\Debug\CSCR.pdb
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\bin\Debug\CSCR.exe.manifest
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\bin\Debug\CSCR.application
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\bin\Debug\CSCR.exe
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\bin\Debug\CSCR.pdb
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\bin\Debug\CSCR.xml
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\SGAS.DatatoExcel.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\SGAS.frmAttendance.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\SGAS.frmClass.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\SGAS.frmgradesheet.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\SGAS.frmMaintenance.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\SGAS.frmLog.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\SGAS.frmMain.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\SGAS.frmStud.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\SGAS.frmUser.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\SGAS.frmVOG.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\SGAS.Resources.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\SGAS.ReportFinal.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\SGAS.ReportGradSheet.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\SGAS.ReportsForStudent.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\SGAS.splash.resources
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\RdlCompile.cache
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\RdlCompile.compiled
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\CSCR.exe.manifest
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\CSCR.application
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\CSCR.exe
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\CSCR.xml
+C:\Users\PC7\Desktop\FINAL THESIS (OCT21 944PM)\SGAS\obj\x86\Debug\CSCR.pdb
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\bin\Debug\CSCR.exe.manifest
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\bin\Debug\CSCR.application
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\bin\Debug\CSCR.exe
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\bin\Debug\CSCR.pdb
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\bin\Debug\CSCR.xml
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\SGAS.DatatoExcel.resources
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\SGAS.frmAttendance.resources
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\SGAS.frmClass.resources
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\SGAS.frmgradesheet.resources
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\SGAS.frmMaintenance.resources
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\SGAS.frmLog.resources
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\SGAS.frmMain.resources
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\SGAS.frmStud.resources
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\SGAS.frmUser.resources
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\SGAS.frmVOG.resources
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\SGAS.Resources.resources
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\SGAS.ReportFinal.resources
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\SGAS.ReportGradSheet.resources
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\SGAS.ReportsForStudent.resources
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\SGAS.splash.resources
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\RdlCompile.cache
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\RdlCompile.compiled
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\CSCR.exe.manifest
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\CSCR.application
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\CSCR.exe
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\CSCR.xml
+D:\To be pass\FINAL THESIS (OCT21 1111PM)\SGAS\obj\x86\Debug\CSCR.pdb
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\CSCR.exe
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\CSCR.xml
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\CSCR.pdb
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\bin\Debug\CSCR.exe.manifest
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\bin\Debug\CSCR.application
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\bin\Debug\CSCR.exe
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\bin\Debug\CSCR.pdb
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\bin\Debug\CSCR.xml
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\SGAS.DatatoExcel.resources
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\SGAS.frmAttendance.resources
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\SGAS.frmClass.resources
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\SGAS.frmgradesheet.resources
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\SGAS.frmMaintenance.resources
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\SGAS.frmLog.resources
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\SGAS.frmMain.resources
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\SGAS.frmStud.resources
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\SGAS.frmUser.resources
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\SGAS.frmVOG.resources
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\SGAS.Resources.resources
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\SGAS.ReportFinal.resources
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\SGAS.ReportGradSheet.resources
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\SGAS.ReportsForStudent.resources
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\SGAS.splash.resources
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\RdlCompile.cache
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\RdlCompile.compiled
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\CSCR.exe.manifest
+D:\To be pass\Final's Thesis Passed (October 21, 2016 6PM)\SGAS\obj\x86\Debug\CSCR.application

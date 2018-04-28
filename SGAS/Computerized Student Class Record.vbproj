@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5449A064-2834-41AE-87C5-8686BBA54E79}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SGAS.My.MyApplication</StartupObject>
+    <RootNamespace>SGAS</RootNamespace>
+    <AssemblyName>CSCR</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\PC7\Desktop\Computerized Student Class Record\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>CSCR</ProductName>
+    <PublisherName>Reinald Reinder Mistica</PublisherName>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CSCR.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CSCR.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>B44ED0354CC82147FCFE365D3972CA4E6D0E102A</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>SGAS_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Installers\Connector.NET 6.9\Assemblies\v4.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Installers\Connector.NET 6.9\Assemblies\v4.0\MySql.Data.Entity.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.vb">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DatatoExcel.Designer.vb">
+      <DependentUpon>DatatoExcel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DatatoExcel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dbclassrecDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbclassrecDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbclassrecDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbclassrecDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmAttendance.Designer.vb">
+      <DependentUpon>frmAttendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAttendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClass.Designer.vb">
+      <DependentUpon>frmClass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmClass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGradeSheet.Designer.vb">
+      <DependentUpon>frmGradeSheet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGradeSheet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaintenance.Designer.vb">
+      <DependentUpon>frmMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLog.Designer.vb">
+      <DependentUpon>frmLog.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStud.Designer.vb">
+      <DependentUpon>frmStud.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStud.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUser.Designer.vb">
+      <DependentUpon>frmUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVOG.Designer.vb">
+      <DependentUpon>frmVOG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVOG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ReportFinal.Designer.vb">
+      <DependentUpon>ReportFinal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportFinal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportGradSheet.Designer.vb">
+      <DependentUpon>ReportGradSheet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportGradSheet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportsForStudent.Designer.vb">
+      <DependentUpon>ReportsForStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportsForStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splash.Designer.vb">
+      <DependentUpon>splash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DatatoExcel.resx">
+      <DependentUpon>DatatoExcel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAttendance.resx">
+      <DependentUpon>frmAttendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClass.resx">
+      <DependentUpon>frmClass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGradeSheet.resx">
+      <DependentUpon>frmGradeSheet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaintenance.resx">
+      <DependentUpon>frmMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLog.resx">
+      <DependentUpon>frmLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStud.resx">
+      <DependentUpon>frmStud.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUser.resx">
+      <DependentUpon>frmUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVOG.resx">
+      <DependentUpon>frmVOG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportFinal.resx">
+      <DependentUpon>ReportFinal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportGradSheet.resx">
+      <DependentUpon>ReportGradSheet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportsForStudent.resx">
+      <DependentUpon>ReportsForStudent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\rptFinalG.rdlc" />
+    <EmbeddedResource Include="splash.resx">
+      <DependentUpon>splash.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dbclassrecDataSet.xsc">
+      <DependentUpon>dbclassrecDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbclassrecDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbclassrecDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbclassrecDataSet.xss">
+      <DependentUpon>dbclassrecDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbclassrecDataSet1.xsc">
+      <DependentUpon>dbclassrecDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dbclassrecDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbclassrecDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbclassrecDataSet1.xss">
+      <DependentUpon>dbclassrecDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\frmAttendance.datasource" />
+    <None Include="My Project\DataSources\frmClass.datasource" />
+    <None Include="My Project\DataSources\frmgradesheet.datasource" />
+    <None Include="My Project\DataSources\frmLog.datasource" />
+    <None Include="My Project\DataSources\frmMain.datasource" />
+    <None Include="My Project\DataSources\frmMaintenance.datasource" />
+    <None Include="My Project\DataSources\frmRep.datasource" />
+    <None Include="My Project\DataSources\frmStud.datasource" />
+    <None Include="My Project\DataSources\frmUser.datasource" />
+    <None Include="My Project\DataSources\frmVOG.datasource" />
+    <None Include="My Project\DataSources\SGAS.My.MyApplication.datasource" />
+    <None Include="My Project\DataSources\SGAS.My.MySettings.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_Flash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_Stud.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_VOG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_User.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_Sub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_Section.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_Other.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_NO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_Items.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_GS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_Course.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_Comp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_CL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_Cat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_Class.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_AreaG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_Main.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_LogIn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_LogIn1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Butones.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_Other1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_LogInNEW.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_MainRevised.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Glass_Bar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_Attendance.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_Cat1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_Att.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_AboutUs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_MainRevised1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SGAS SPLASH New.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

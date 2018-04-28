@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="CSCR.exe" version="1.0.0.2" publicKeyToken="2c3533ada93cdb6b" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CSCR" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="CSCR.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.Common" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.DataVisualization" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.ProcessingObjectModel" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.WinForms" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="MySql.Data" version="6.6.7.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="MySql.Data.Entity" version="6.6.7.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CSCR.exe" size="4087296">
+      <assemblyIdentity name="CSCR" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>GUJP8msgBE07Ufvd3/R73BpdbbE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=RAINMECHANICS\Rain Mistica" issuerKeyHash="02a805c2557e1fa55805648c66852d8e9e6d29e0" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>m06PHq1EQWk1FH4WquhtlLPFpGo=</DigestValue></Reference></SignedInfo><SignatureValue>LIEiE3DbWaKyKF8YKtoY5sUQwhVjDVYB3tffHLu8nLVh+KGqiOz3leY5pgdoFPE4l4wKdJI+XDG6Ne6e0zAqNlTsqrNcOviaoFSlGyN7iKqY9OtALg0kVR+wwVVGtOB7Anji5SsAhM7YlymQx3pImwimOi8eGHr1pznUPw+Ur6c=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>10pz0Z2pxmzkDPO4xF7w+fkW4Cd/lDHHHFnPNPlESgKMAZRGo4QK62Oa5tGmnEC9a8mjCDRmNc/zUFEGa7/X26KCqF+0rEPZ9oET3DRn9YRFLdRnH+dM+m5pZdmCfN91uRo9Ks8rpcN3ng8GTMgnKYMwHac1urlnEk77LXA7iVk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6aa4c5b3946de8aa167e1435694144ad1e8f4e9b" Description="" Url=""><as:assemblyIdentity name="CSCR.exe" version="1.0.0.2" publicKeyToken="2c3533ada93cdb6b" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=RAINMECHANICS\Rain Mistica</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>YEs9QjZ3mUSU5mu59qjU0kMCn+4=</DigestValue></Reference></SignedInfo><SignatureValue>JIJNnsSPgYImqfIpSMW/Kg1soUx9H5o2OZJ5lXlwleqWTuE7giLGzmAdV/dS2JonwRYjCYtKQAa1C6GVC+F6QnkYqZrfL+jqKlRze/4AzFfYLe4Xd+ZGgXOLpcRQXVR6UJ3qkpFUUrv1Y46p07u3OlQQiXogBd26gQc+S+Gy4A8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>10pz0Z2pxmzkDPO4xF7w+fkW4Cd/lDHHHFnPNPlESgKMAZRGo4QK62Oa5tGmnEC9a8mjCDRmNc/zUFEGa7/X26KCqF+0rEPZ9oET3DRn9YRFLdRnH+dM+m5pZdmCfN91uRo9Ks8rpcN3ng8GTMgnKYMwHac1urlnEk77LXA7iVk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWagAwIBAgIQYHxVVqcVb61IXSoy10lP2TAJBgUrDgMCHQUAMD8xPTA7BgNVBAMeNABSAEEASQBOAE0ARQBDAEgAQQBOAEkAQwBTAFwAUgBhAGkAbgAgAE0AaQBzAHQAaQBjAGEwHhcNMTYwNzE5MTQ1NDAzWhcNMTcwNzE5MjA1NDAzWjA/MT0wOwYDVQQDHjQAUgBBAEkATgBNAEUAQwBIAEEATgBJAEMAUwBcAFIAYQBpAG4AIABNAGkAcwB0AGkAYwBhMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDXSnPRnanGbOQM87jEXvD5+RbgJ3+UMcccWc80+URKAowBlEajhArrY5rm0aacQL1ryaMINGY1z/NQUQZrv9fbooKoX7SsQ9n2gRPcNGf1hEUt1Gcf50z6bmll2YJ833W5Gj0qzyulw3eeDwZMyCcpgzAdpzW6uWcSTvstcDuJWQIDAQABMAkGBSsOAwIdBQADgYEAqhEPHOkyoSalZMuS2Zeorr5YcMdK+9+V/d+8aTTJNDqFn+podo+EcMadxerjkYOPcCcGUkYpdBzTWGCmu27Xc72htFbmQkqp6L3P3gqY5rIS0cV3QOtgIsFnUJQRpJxm5GYUBOcAZIn2A+YR9Gg5jqKFElq1PULAYxgfP1WJs7U=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

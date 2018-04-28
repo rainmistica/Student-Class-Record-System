@@ -1,0 +1,1032 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CSCR
+</name>
+</assembly>
+<members>
+<member name="T:SGAS.dbclassrecDataSet.tbl_courseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbl_curDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbl_deptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbl_subjectDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblclassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblcmpDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblexamDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblgradesheetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblgsheetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblotherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblprojDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblquizDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblrecDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblschoolyearDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblseatworkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblstatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblstudlistDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblsubjDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltcDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltexamDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltotherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltprojDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltquizDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltrecDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltseatworkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbluseraccDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbl_courseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbl_curRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbl_deptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbl_subjectRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblclassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblcmpRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblexamRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblgradesheetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblgsheetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblotherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblprojRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblquizRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblrecRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblschoolyearRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblseatworkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblstatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblstudlistRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblsubjRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltcRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltexamRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltotherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltprojRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltquizRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltrecRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltseatworkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbluseraccRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbl_courseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbl_curRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbl_deptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbl_subjectRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblclassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblcmpRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblexamRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblgradesheetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblgsheetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblotherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblprojRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblquizRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblrecRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblschoolyearRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblseatworkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblstatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblstudlistRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tblsubjRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltcRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltexamRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltotherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltprojRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltquizRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltrecRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbltseatworkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet.tbluseraccRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tbl_courseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tbl_curTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tbl_deptTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tbl_subjectTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tblassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tblclassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tblcmpTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tblexamTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tblgradesheetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tblgsheetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tblotherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tblprojTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tblquizTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tblrecTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tblschoolyearTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tblseatworkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tblstatTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tblstudlistTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tblsubjTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tbltassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tbltcTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tbltexamTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tbltotherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tbltprojTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tbltquizTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tbltrecTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tbltseatworkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.tbluseraccTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SGAS.dbclassrecDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SGAS.dbclassrecDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SGAS.dbclassrecDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SGAS.dbclassrecDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SGAS.dbclassrecDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SGAS.dbclassrecDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SGAS.dbclassrecDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SGAS.dbclassrecDataSetTableAdapters.TableAdapterManager.UpdateAll(SGAS.dbclassrecDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:SGAS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SGAS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SGAS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:SGAS.DataSet1.DTStudListDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.DataSet1.DTGradSheetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.DataSet1.DTFinalGDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.DataSet1.DTStudListRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.DataSet1.DTGradSheetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.DataSet1.DTFinalGRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.DataSet1.DTStudListRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.DataSet1.DTGradSheetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.DataSet1.DTFinalGRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbl_courseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbl_curDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbl_deptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbl_subjectDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblclassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblcmpDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblexamDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblgradesheetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblgsheetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblotherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblprojDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblquizDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblrecDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblschoolyearDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblseatworkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblstatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblstudlistDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblsubjDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltcDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltexamDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltotherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltprojDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltquizDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltrecDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltseatworkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbluseraccDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbl_courseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbl_curRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbl_deptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbl_subjectRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblclassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblcmpRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblexamRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblgradesheetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblgsheetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblotherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblprojRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblquizRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblrecRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblschoolyearRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblseatworkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblstatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblstudlistRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblsubjRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltcRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltexamRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltotherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltprojRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltquizRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltrecRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltseatworkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbluseraccRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbl_courseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbl_curRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbl_deptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbl_subjectRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblclassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblcmpRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblexamRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblgradesheetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblgsheetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblotherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblprojRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblquizRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblrecRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblschoolyearRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblseatworkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblstatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblstudlistRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tblsubjRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltcRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltexamRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltotherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltprojRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltquizRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltrecRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbltseatworkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1.tbluseraccRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tbl_courseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tbl_curTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tbl_deptTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tbl_subjectTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tblassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tblclassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tblcmpTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tblexamTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tblgradesheetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tblgsheetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tblotherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tblprojTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tblquizTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tblrecTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tblschoolyearTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tblseatworkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tblstatTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tblstudlistTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tblsubjTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tbltassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tbltcTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tbltexamTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tbltotherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tbltprojTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tbltquizTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tbltrecTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tbltseatworkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.tbluseraccTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SGAS.dbclassrecDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(SGAS.dbclassrecDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SGAS.dbclassrecDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(SGAS.dbclassrecDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SGAS.dbclassrecDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(SGAS.dbclassrecDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SGAS.dbclassrecDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SGAS.dbclassrecDataSet1TableAdapters.TableAdapterManager.UpdateAll(SGAS.dbclassrecDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SGAS.dbclassrecDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
